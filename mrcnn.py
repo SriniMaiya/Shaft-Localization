@@ -35,7 +35,7 @@ train_annot_dir = "dataset_COCODetection/train/annotations.json"
 
 
 val_img_dir = "dataset_COCODetection/val/images/"
-val_annot_dir = "dataset_COCODetection/val/annotations.json" 
+val_annot_dir = "dataset_COCODetection/val/annotations.json"
 
 def get_dataset(name, image_set, transform, data_path):
     paths = {
