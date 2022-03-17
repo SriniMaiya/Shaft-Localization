@@ -51,24 +51,12 @@ def main():
     # train on the GPU or on the CPU, if a GPU is not available
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
-    # our dataset has two classes only - background and person
     num_classes = 2
-    # use our dataset and defined transformations
-    # dataset,target = coco.CocoDetection(train_img_dir, train_annot_dir, transform=get_transform(train=True))
-    # dataset_test, target = coco.CocoDetection(val_img_dir, val_annot_dir, transform=get_transform(train=False))
+    
     dataset, _ = get_dataset("coco", "train",transform=Compose([PILToTensor()]), data_path="datasets/train")
     dataset_test, _ = get_dataset("coco", "val",transform=Compose([PILToTensor()]), data_path="datasets/val")
 
     indices_test = torch.randperm(len(dataset_test)).tolist()
-    # split the dataset in train and test set
-    # indices = torch.randperm(len(dataset)).tolist()
-    # dataset = torch.utils.data.Subset(dataset, indices[:-50])
-    # indices = torch.randperm(len(dataset_test)).tolist()
-    # print(indices, len(indices))
-
-    # dataset_test = torch.utils.data.Subset(dataset_test, indices[-50:])
-
-    # define training and validation data loaders
 
 
     # get the model using our helper function
