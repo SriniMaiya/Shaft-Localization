@@ -5,3 +5,5 @@
     1. Varying number of shafts
     2. Variyng illumination conditions   
 * Only the annotations of the shafts are saved, which are on the top layer( termed as pickable) 
+
+Synthetic Data: ----
