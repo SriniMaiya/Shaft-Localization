@@ -9,4 +9,4 @@
 
                         Synthetic Data:               |                 Masks   
     ----
-    <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0001.png" width="256" height="256">
+    <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0001.png" width="256" height="256">                <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/1_annotated.jpg" width="256" height="256" >
