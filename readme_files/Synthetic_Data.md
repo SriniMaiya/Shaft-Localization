@@ -7,4 +7,4 @@
 * Only the annotations of the shafts are saved, which are on the top layer( termed as pickable) 
 
             Synthetic Data:           |             Masks   
-![Image](/readme_files/Img_0001.png)  | ![Image](/readme_files/1_annotated.jpg)
+    ![Image](/readme_files/Img_0001.png)  | ![Image](/readme_files/1_annotated.jpg)
