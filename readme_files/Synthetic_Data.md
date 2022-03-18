@@ -19,5 +19,5 @@ The annotations were generated only for the shafts on the top layer, thus provid
 
     <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0009.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/9_annotated.jpg" width="45%" height="45%"></img>
 
-    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0012.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/12_annotated.jpg" width="45%" height="45%"></img>
+    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_00012.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/12_annotated.jpg" width="45%" height="45%"></img>
 
