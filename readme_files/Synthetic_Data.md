@@ -12,9 +12,9 @@
                  Synthetic Data:               |                 Masks   
     ----
     
-    <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0001.png" width="45%" ></img>   <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/1_annotated.jpg" width="45%"  ></img>
+    <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0001.png" width="45%" height="45%" ></img>   <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/1_annotated.jpg" width="45%" height="45%" ></img>
 
-    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0009.png" width="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/9_annotated.jpg" width="45%"></img>
+    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0009.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/9_annotated.jpg" width="45%" height="45%"></img>
 
 
 
