@@ -9,3 +9,8 @@ The [instance segmentation model](https://arxiv.org/abs/1703.06870) is purely tr
 
 The project proposes a deep-learning methodology to solve the problem of [Bin-Picking](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems/intralogistics-and-material-flow/separation-processes-using-robots-bin-picking.html) in industries, a core problem in the computer vision domain. 
 
+## Workflow:
+----
+1. Synthetic data and annotation generation by Blender
+2. Training of Mask-RCNN model on the generated synthetic data
+3. Prediction on real images
