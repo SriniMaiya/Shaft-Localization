@@ -9,7 +9,7 @@
 * Only the annotations of the shafts are saved, which are on the top layer( termed as pickable) 
 - Below are the visualizations of some of the generated images, and the overlaid masks. 
   
-                        Synthetic Data:               |                 Masks   
+                 Synthetic Data:               |                 Masks   
     ----
     
     <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Img_0001.png" width="45%" ></img>   <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/1_annotated.jpg" width="45%"  ></img>
