@@ -14,6 +14,6 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
  
 
 1. [Synthetic data and annotation generation by Blender (Click me)](/readme_files/Synthetic_Data.md)
-2. Training of Mask-RCNN model on the generated synthetic data
+2. [Training of Mask-RCNN model on the generated synthetic data (Click me)](/readme_files/training.md)
 3. Prediction on real images
 
