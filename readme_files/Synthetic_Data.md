@@ -9,7 +9,7 @@
     3. Variyng illumination conditions.
     4. Randomized orientations of shafts for each new image.
 
-    The annotations were generated only for the shafts on the top layer, thus providing the necessary data for the neural network.
+    The annotations were generated only for the shafts on the top layer, thus providing creating a dataset of only pickable shafts as training data.
 
 - Below are the visualizations of some of the generated images, and the overlaid masks. 
   
