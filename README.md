@@ -3,7 +3,15 @@
 
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
-![sample image](/readme_files/image_00031.bmp)
+
+<div style="width: 45%; height: 45%">
+  
+  ![](/readme_files/image_0006.bmp)
+  
+</div>
+
+
+
 
 The [instance segmentation model](https://arxiv.org/abs/1703.06870) is purely trained on synthetically generated data, which closely replicates the real world scenario. The synthetic data and annotations are generated using [Blender](https://www.blender.org/) and the workflow of image and annotation generation are automated using [Blender-Python](https://docs.blender.org/api/current/info_overview.html)
 
