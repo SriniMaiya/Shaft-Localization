@@ -5,8 +5,8 @@ The aim of the project is to localize the centre and orientation of pickable sha
 
 <table bordet="0">
 <tr>
-    <td><b style="font-size:20px; text-align: center;" > Original Image </b> </td>
-    <td><b style="font-size:20px; text-align: center;"> Predictions of pickable shafts </b> </td>
+    <th><b style="font-size:20px; text-align: center;" > Original Image </b> </th>
+    <th><b style="font-size:20px; text-align: center;"> Predictions of pickable shafts </b> </th>
 </tr>
 
 <tr>
