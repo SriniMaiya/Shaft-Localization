@@ -82,7 +82,38 @@ dataset_test, _ = get_dataset("coco", "val",
                         transform=Compose([PILToTensor()]),
                                     data_path="datasets/val")
 
-# Sample a random of 300 images for train and 60 images for test epoch from the dataloader. 
-dataset_send = torch.utils.data.Subset(dataset, indices[:300])
-dataset_test_send = torch.utils.data.Subset(dataset_test, indices_test[:60])
+
+```
+
+### Training loop
+----
+```python
+num_epochs = 30
+
+for epoch in range(num_epochs):
+    # Generate random permutations of the dataset and select a randomized sample of 300 images for train and 60 images for test epoch from the dataloader. 
+    indices = torch.randperm(len(dataset)).tolist()
+    indices_test = torch.randperm(len(dataset_test)).tolist()
+ 
+    dataset_send = torch.utils.data.Subset(dataset, indices[:300])
+    dataset_test_send = torch.utils.data.Subset(dataset_test, indices_test[:60])
+
+    
+    data_loader = torch.utils.data.DataLoader(
+                        dataset_send, batch_size=1, shuffle=True, num_workers=0,
+                        collate_fn=utils.collate_fn)
+
+    data_loader_test = torch.utils.data.DataLoader(
+                        dataset_test_send, batch_size=1, shuffle=False, num_workers=0,
+                        collate_fn=utils.collate_fn)
+    # Train the model for 1 epoch. (Train function can be found in engine.py)
+    train_one_epoch(model, optimizer, data_loader, device, epoch, print_freq=30)
+
+    # update the learning rate
+    lr_scheduler.step()
+
+    # evaluate on the test dataset
+    evaluate(model, data_loader_test, device=device)
+# Save weights            
+torch.save(model.state_dict(), f"weights/resnet101_weights_{epoch}.pth")
 ```
