@@ -3,7 +3,7 @@
 
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
-
+                Image           |           Prediction
 <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp" width="45%"></img> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="45%"></img> 
  
 
@@ -19,5 +19,5 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 
 1. [Synthetic data and annotation generation by Blender (Click me)](/readme_files/Synthetic_Data.md)
 2. [Training of Mask-RCNN model on the generated synthetic data (Click me)](/readme_files/training.md)
-3. Prediction on real images
+3. [Prediction on real images](readme_files/prediction.md)
 
