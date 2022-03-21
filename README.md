@@ -3,7 +3,7 @@
 
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
-<table border="0">
+<table>
 <tr>
     <th><b style="font-size:20px; text-align: center;" > Original Image </b> </th>
     <th><b style="font-size:20px; text-align: center;"> Predictions of pickable shafts </b> </th>
