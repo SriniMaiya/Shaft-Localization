@@ -106,6 +106,7 @@ for epoch in range(num_epochs):
     data_loader_test = torch.utils.data.DataLoader(
                         dataset_test_send, batch_size=1, shuffle=False, num_workers=0,
                         collate_fn=utils.collate_fn)
+                        
     # Train the model for 1 epoch. (Train function can be found in engine.py)
     train_one_epoch(model, optimizer, data_loader, device, epoch, print_freq=30)
 
