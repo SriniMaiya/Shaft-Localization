@@ -14,12 +14,30 @@
 
 - Below are the visualizations of some of the generated images, and the overlaid masks. 
   
-                 Synthetic Data:               |              Masks   
-    ----
-    
-    <img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0001.png" width="45%" height="45%" ></img>   <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/1_annotated.jpg" width="45%" height="45%" ></img>
 
-    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0009.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/9_annotated.jpg" width="45%" height="45%"></img>
+<table>
+<tr>
+    <th> <b style="font-size:25px; text-align: center;"> Visualization of training data</b></th>
+<tr>
 
-    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_00012.png" width="45%" height="45%" ></img>    <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/12_annotated.jpg" width="45%" height="45%"></img>
+<tr>
+    <th><b style="font-size:20px; text-align: center;" > Synthetic image </b> </th>
+    <th><b style="font-size:20px; text-align: center;"> Generated mask-data </b> </th>
+</tr>
 
+<tr>
+    <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0001.png" width="45%" height="45%" ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/1_annotated.jpg" width="45%" height="45%" ></img></td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0009.png" width="45%" height="45%" ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/9_annotated.jpg" width="45%" height="45%"></img> </td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_00012.png" width="45%" height="45%" ></img></td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/12_annotated.jpg" width="45%" height="45%"></img> </td>
+</tr>
+
+</table>
