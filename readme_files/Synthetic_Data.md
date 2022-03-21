@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-    <th> <b colspan="2" style="font-size:30px; text-align: center;"> Visualization of training data</b></th>
+    <th colspan="2" style="font-size:30px; text-align: center;"> Visualization of training data</th>
 <tr>
 
 <tr>
