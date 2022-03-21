@@ -1,5 +1,7 @@
 # Training of an Instance Segmentation Model (Mask-RCNN)
 
+
+
 ```python3
 def maskrcnn_resnet101_fpn(num_classes=2, pretrained_backbone=True, trainable_backbone_layers=None, **kwargs):
     backbone  = resnet_fpn_backbone("resnet101", pretrained=pretrained_backbone, trainable_layers=trainable_backbone_layers)
@@ -30,6 +32,7 @@ def maskrcnn_resnet101_fpn(num_classes=2, pretrained_backbone=True, trainable_ba
     model.roi_heads.mask_predictor = MaskRCNNPredictor(in_features_mask,
                                                         hidden_layer,   
                                                         num_classes) 
+    return model
 ```
 
-Creation of a Mask-RCNN model, by using a ResNet-101 backbone with suitable Mask and bounding box predictors. 
+
