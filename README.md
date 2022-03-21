@@ -13,6 +13,12 @@ The aim of the project is to localize the centre and orientation of pickable sha
     <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="100%"></img></td>
     <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="100%"></img> </td>
 <tr>
+
+<tr>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="100%"></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004_op.bmp" width="100%"></img> </td>
+<tr>
+
 </table>
 
 <!-- <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="45%"></img> | <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="45%"></img>   -->
