@@ -4,7 +4,7 @@
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
                 Image           |           Prediction
-<img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="45%"></img> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="45%"></img> 
+| <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="45%"></img> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="45%"></img>  |
 
 |:--:| 
 | *Space* |
