@@ -26,18 +26,18 @@
 </tr>
 
 <tr>
-    <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0001.png" width="45%" height="45%" ></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/1_annotated.jpg" width="45%" height="45%" ></img></td>
+    <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0001.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/1_annotated.jpg"  ></img></td>
 </tr>
 
 <tr>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0009.png" width="45%" height="45%" ></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/9_annotated.jpg" width="45%" height="45%"></img> </td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_0009.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/9_annotated.jpg" ></img> </td>
 </tr>
 
 <tr>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_00012.png" width="45%" height="45%" ></img></td>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/12_annotated.jpg" width="45%" height="45%"></img> </td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/Img_00012.png"  ></img></td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_data/12_annotated.jpg" ></img> </td>
 </tr>
 
 </table>
