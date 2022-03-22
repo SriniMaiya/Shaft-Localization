@@ -48,7 +48,10 @@ The [instance segmentation model](https://arxiv.org/abs/1703.06870) is purely tr
 
 The project proposes a deep-learning methodology to solve the problem of [Bin-Picking](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems/intralogistics-and-material-flow/separation-processes-using-robots-bin-picking.html) in industries, a core problem in the computer vision domain. 
 
+----
+----
 ## Workflow: 
+----
  
 
 
@@ -70,5 +73,10 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 4. #### Prediction on Real Images
    ----
    The predictions of the model on the real dataset were analyzed as visulaized in this [readme file](/readme_files/prediction_act.md)
-    
+
+
+----
+----
+
+The model performs well 
 
