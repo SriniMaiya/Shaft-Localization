@@ -32,12 +32,12 @@ The trained network does an excellent job in detecting the pickable shafts, as v
 
 <tr>
     <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00015.png"  ></img></td>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00015.png" ></img> </td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00015_pred.png" ></img> </td>
 </tr>
 
 <tr>
     <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00011.png"  ></img></td>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00011.png" ></img> </td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00011_pred.png" ></img> </td>
 </tr>
 </table>
 
