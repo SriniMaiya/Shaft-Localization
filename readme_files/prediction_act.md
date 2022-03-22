@@ -19,8 +19,8 @@ The individual columns of the annotation files are explained in the image below.
 <tr>
 
 <tr>
-    <th><b style="font-size:20px; text-align: center;" > Predicted Masks </b> </th>
-    <th><b style="font-size:20px; text-align: center;"> PCA analysed Image  </b> </th>
+    <th><b style="font-size:20px; text-align: center;" > Predicted Masks -> PCA Image </b> </th>
+    <th><b style="font-size:20px; text-align: center;"> Annotation file  </b> </th>
 </tr>
 
 <tr>
