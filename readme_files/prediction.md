@@ -17,17 +17,17 @@ The trained network does an excellent job in detecting the pickable shafts, as v
 
 <tr>
     <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001047.png"  ></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001047.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001047_pred.png"  ></img></td>
 </tr>
 
 <tr>
     <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001049.png"  ></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001049.png" ></img> </td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001049_pred.png" ></img> </td>
 </tr>
 
 <tr>
     <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001048.png"  ></img></td>
-    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001048.png" ></img> </td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001048_pred.png" ></img> </td>
 </tr>
 
 <tr>
