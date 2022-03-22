@@ -60,7 +60,7 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 2. #### Training of Mask-RCNN model on the generated synthetic data 
    ----
    
-   The training code, custom MaskRCNN Model creation methods are explained in this[readme file](/readme_files/training.md).
+   The training code, custom MaskRCNN Model creation methods are explained in this [readme file](/readme_files/training.md).
 
 3. #### Prediction on Synthetic images
    ----
