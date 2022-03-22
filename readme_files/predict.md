@@ -3,14 +3,15 @@
 The trained model was tested on both synthetic and real images to check the prediction quality. 
 ## Prediction on Synthetic images
 ----
+
 <table>
 <tr>
-    <th colspan="2" style="font-size:30px; text-align: center;"> Visualization of training data</th>
+    <th colspan="3" style="font-size:30px; text-align: center;"> Prediction on Synthetic images </th>
 <tr>
 
 <tr>
     <th><b style="font-size:20px; text-align: center;" > Synthetic image </b> </th>
-    <th><b style="font-size:20px; text-align: center;"> Generated mask-data </b> </th>
+    <th><b style="font-size:20px; text-align: center;"> Prediction  </b> </th>
 </tr>
 
 <tr>
@@ -40,4 +41,3 @@ The trained model was tested on both synthetic and real images to check the pred
 </table>
 
 
-https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00011.png
