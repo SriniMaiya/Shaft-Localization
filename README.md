@@ -1,6 +1,6 @@
 # Shaft-Localization
 
-This is the reimplementation of my [Master's project -> (Click Me for project report)]("https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf") using PyTorch.
+This is the reimplementation of my <a href = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf" target="_blank"> Master's Project</a>  using PyTorch.
 
 The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN).
 ## Aim:
