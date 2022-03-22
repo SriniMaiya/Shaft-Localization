@@ -29,6 +29,17 @@ The shiny, textureless surface of the shafts set an additional hurdle as the tra
     <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004_pred.bmp" width="100%"></img> </td>
 </tr>
 
+<tr>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_00028.bmp"  width="100%"></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_00028_pred.bmp" width="100%"></img> </td>
+</tr>
+
+<tr>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_000149.bmp"  width="100%"></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_000149_pred.bmp" width="100%"></img> </td>
+</tr>
+
+
 </table>
 
 
