@@ -1,8 +1,10 @@
 # Shaft-Localization
+
+This is the reimplementation of my [Master's project -> (Click Me for project report)]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf") using PyTorch.
+
+The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN).
 ## Aim:
 
-A detailed explanation of workflow and results of the Tensorflow implementation of the master's project can be found here.
-[Project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf")
 
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
