@@ -51,11 +51,11 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 
 ----
 ## Workflow: 
-
+A detailed explanation of the worfkflow and the whole project can be found in the [project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf").
 1. ### Synthetic data and annotation generation by Blender
    
     
-    A brief visualization of synthetic images and annotations can be seen in this [readme file](/readme_files/Synthetic_Data.md). A detailed explanation can be found in the [project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf").
+    A brief visualization of synthetic images and annotations can be seen in this [readme file](/readme_files/Synthetic_Data.md). 
 
 2. ### Training of Mask-RCNN model on the generated synthetic data 
    
