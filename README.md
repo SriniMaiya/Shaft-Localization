@@ -5,6 +5,9 @@ This is the reimplementation of my <a href = "https://github.com/SriniMaiya/Shaf
 The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN).
 ## Aim:
 
+<p align="center">
+  <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Images/workflow.png" />
+</p>
 
 The aim of the project is to localize the centre and orientation of pickable objects from a bin of randomly oriented shafts as in the images below. 
 
@@ -36,9 +39,7 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 
 ## Workflow: 
  
-<p align="center">
-  <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Images/workflow.png" />
-</p>
+
 
 1. #### Synthetic data and annotation generation by Blender
    ----
