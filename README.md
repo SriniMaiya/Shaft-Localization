@@ -18,12 +18,12 @@ The shiny, textureless surface of the shafts set an additional hurdle as the tra
 
 <tr>
     <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006.bmp"  width="100%"></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_op.bmp" width="100%"></img> </td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0006_pred.bmp" width="100%"></img> </td>
 </tr>
 
 <tr>
     <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004.bmp"  width="100%"></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004_op.bmp" width="100%"></img> </td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004_pred.bmp" width="100%"></img> </td>
 </tr>
 
 </table>
@@ -43,18 +43,19 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 1. #### Synthetic data and annotation generation by Blender
    ----
     
-    A brief visualization of synthetic images and annotations can be seen [here](/readme_files/Synthetic_Data.md). For a detailed explanation can be found in the [project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf").
+    A brief visualization of synthetic images and annotations can be seen in this[readme file](/readme_files/Synthetic_Data.md). For a detailed explanation can be found in the [project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf").
 
 2. #### Training of Mask-RCNN model on the generated synthetic data 
    ----
    
-   The training code, custom MaskRCNN Model creation methods are explained [here](/readme_files/training.md).
+   The training code, custom MaskRCNN Model creation methods are explained in this[readme file](/readme_files/training.md).
 
 3. #### Prediction on Synthetic images
    ----
    
    The prediction results of synthetic images are visualized in this [readme file](readme_files/prediction_syn.md).
 
-   
+4. #### Prediction on Real Images
+   ----
     
 
