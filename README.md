@@ -1,15 +1,15 @@
 # Shaft-Localization
 
-This is the reimplementation of my <a href = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf" target="_blank"> Master's Project</a>  using PyTorch.
+This is the reimplementation of my <a href = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf" target="_blank"> Master's Project</a>  using PyTorch. The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN). 
 
-The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN).
+----
 ## Aim:
 
 <p align="center">
   <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Images/workflow.png" />
 </p>
 
-The aim of the project is to localize the centre and orientation of pickable objects from a bin of randomly oriented shafts as in the images below. 
+The aim of the project is to localize the center and orientation of pickable objects from a bin of randomly oriented shafts as in the images below. 
 
 The shiny, textureless surface of the shafts set an additional hurdle as the traditional image processing techniques fail to preform an effective edge detection or pattern matching as the surface texture induces false edges.
 
@@ -51,8 +51,6 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 
 ----
 ## Workflow: 
- 
-
 
 1. ### Synthetic data and annotation generation by Blender
    
@@ -71,9 +69,9 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 
 4. ### Prediction on Real Images
    
-   The predictions of the model on the real dataset were analyzed as visulaized in this [readme file](/readme_files/prediction_act.md)
+   The predictions of the model on the real dataset were analyzed as visulaized in this [readme file](/readme_files/prediction_act.md).
 
 
 ----
-The model performs well 
+
 
