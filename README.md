@@ -34,7 +34,7 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 ## Workflow: 
  
 <p align="center">
-  <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Images/workflow.png" />
+  <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/Images/workflow.png" width="150%"/>
 </p>
 
 1. [Synthetic data and annotation generation by Blender (Click me)](/readme_files/Synthetic_Data.md)
