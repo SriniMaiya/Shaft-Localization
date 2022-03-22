@@ -1,6 +1,9 @@
 # Shaft-Localization
 ## Aim:
 
+A detailed explanation of workflow and results of the Tensorflow implementation of the master's project can be found here.
+[Project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf")
+
 The aim of the project is to localize the centre and orientation of pickable shafts from a bin of randomly oriented shafts as in the image below.
 
 <table>
