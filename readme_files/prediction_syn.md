@@ -2,6 +2,8 @@
 
 The trained model was tested on both synthetic and real images to check the prediction quality. 
 
+On the predicted masks, PCA was preformed to get center and orientations of individual masks. And the PCA results were written to a .txt file in descending order of prediction confidence.
+
 ## Prediction on Synthetic images
 ----
 The trained network does an excellent job in detecting the pickable shafts, as visualized in the table below.  

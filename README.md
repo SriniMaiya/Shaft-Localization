@@ -53,10 +53,8 @@ The project proposes a deep-learning methodology to solve the problem of [Bin-Pi
 3. #### Prediction on Synthetic images
    ----
    
-   The prediction results of synthetic images are visualized in this [readme file](readme_files/prediction.md).
+   The prediction results of synthetic images are visualized in this [readme file](readme_files/prediction_syn.md).
 
-4. #### Principal Component Analysis [(PCA)](https://docs.opencv.org/3.4/d1/dee/tutorial_introduction_to_pca.html) and generation of orientation file.
-   ----
    
     
 
