@@ -1,9 +1,10 @@
 # Prediction of Synthetic and Real Images
 
 The trained model was tested on both synthetic and real images to check the prediction quality. 
+
 ## Prediction on Synthetic images
 ----
-
+The trained network does an excellent job in detecting the pickable shafts, as visualized in the table below.  
 <table>
 <tr>
     <th colspan="3" style="font-size:30px; text-align: center;"> Prediction on Synthetic images </th>
