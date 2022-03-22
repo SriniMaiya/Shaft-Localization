@@ -3,3 +3,41 @@
 The trained model was tested on both synthetic and real images to check the prediction quality. 
 ## Prediction on Synthetic images
 ----
+<table>
+<tr>
+    <th colspan="2" style="font-size:30px; text-align: center;"> Visualization of training data</th>
+<tr>
+
+<tr>
+    <th><b style="font-size:20px; text-align: center;" > Synthetic image </b> </th>
+    <th><b style="font-size:20px; text-align: center;"> Generated mask-data </b> </th>
+</tr>
+
+<tr>
+    <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001047.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001047.png"  ></img></td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001049.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001049.png" ></img> </td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_0001048.png"  ></img></td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_0001048.png" ></img> </td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00015.png"  ></img></td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00015.png" ></img> </td>
+</tr>
+
+<tr>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00011.png"  ></img></td>
+    <td> <img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Results/Img_00011.png" ></img> </td>
+</tr>
+</table>
+
+
+https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/synthetic_test/Img_00011.png
