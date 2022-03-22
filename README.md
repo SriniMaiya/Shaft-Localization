@@ -48,35 +48,32 @@ The [instance segmentation model](https://arxiv.org/abs/1703.06870) is purely tr
 
 The project proposes a deep-learning methodology to solve the problem of [Bin-Picking](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems/intralogistics-and-material-flow/separation-processes-using-robots-bin-picking.html) in industries, a core problem in the computer vision domain. 
 
-----
+
 ----
 ## Workflow: 
-----
  
 
 
-1. #### Synthetic data and annotation generation by Blender
-   ----
+1. ### Synthetic data and annotation generation by Blender
+   
     
     A brief visualization of synthetic images and annotations can be seen in this [readme file](/readme_files/Synthetic_Data.md). A detailed explanation can be found in the [project report]("readme_files/../readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf").
 
-2. #### Training of Mask-RCNN model on the generated synthetic data 
-   ----
+2. ### Training of Mask-RCNN model on the generated synthetic data 
+   
    
    The training code, custom MaskRCNN Model creation methods are explained in this [readme file](/readme_files/training.md).
 
-3. #### Prediction on Synthetic images
-   ----
+3. ### Prediction on Synthetic images
+   
    
    The prediction results of synthetic images are visualized in this [readme file](readme_files/prediction_syn.md).
 
-4. #### Prediction on Real Images
-   ----
+4. ### Prediction on Real Images
+   
    The predictions of the model on the real dataset were analyzed as visulaized in this [readme file](/readme_files/prediction_act.md)
 
 
 ----
-----
-
 The model performs well 
 
