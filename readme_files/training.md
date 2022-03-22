@@ -47,7 +47,7 @@ def maskrcnn_resnet101_fpn(num_classes=2, pretrained_backbone=True, trainable_ba
     return model
 ```
 
-The model is trained for 30 epochs, with 300 iterations each on a dataset of 2500 synthetic images. Learning rate scheduling was applied, decreasing the learning rate by 50% per 6 epochs. 
+
 
 ### Optimizer and Learning rate Scheduler
 ----
@@ -62,7 +62,7 @@ lr_scheduler = torch.optim.lr_scheduler.StepLR(optimizer,
 ### Dataset Loader
 ----
 ```python
-from coco_utils import get_coco
+from coco_utils import get_coco, get_coco_kp
 
 def get_dataset(name, image_set, transform, data_path):
     paths = {
@@ -86,6 +86,8 @@ dataset_test, _ = get_dataset("coco", "val",
 ```
 
 ### Training loop
+
+The model is trained for 30 epochs, with 300 iterations each on a dataset of 2500 synthetic images with initial learning rate of 0.003. Learning rate scheduling was applied, decreasing the learning rate by 50% per 6 epochs. 
 ----
 ```python
 num_epochs = 30
