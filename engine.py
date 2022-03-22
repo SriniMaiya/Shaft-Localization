@@ -19,6 +19,7 @@ def normalize(image:torch.tensor):
 
 def train_one_epoch(model, optimizer, data_loader, device, epoch, print_freq, scaler=None):
     model.train()
+    # print(    torch.cuda.memory_summary(device=None, abbreviated=False))
     metric_logger = utils.MetricLogger(delimiter="  ")
     metric_logger.add_meter("lr", utils.SmoothedValue(window_size=1, fmt="{value:.6f}"))
     header = f"Epoch: [{epoch}]"
@@ -64,6 +65,8 @@ def train_one_epoch(model, optimizer, data_loader, device, epoch, print_freq, sc
 
         metric_logger.update(loss=losses_reduced, **loss_dict_reduced)
         metric_logger.update(lr=optimizer.param_groups[0]["lr"])
+    del losses, loss_dict, loss_dict_reduced, loss_value,  
+    # print(    torch.cuda.memory_summary(device=None, abbreviated=False))
 
     return metric_logger
 
@@ -122,4 +125,6 @@ def evaluate(model, data_loader, device):
     coco_evaluator.accumulate()
     coco_evaluator.summarize()
     torch.set_num_threads(n_threads)
+    # print(    torch.cuda.memory_summary(device=None, abbreviated=False))
+
     return coco_evaluator
