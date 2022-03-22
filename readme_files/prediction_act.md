@@ -7,6 +7,10 @@ On the predicted masks, PCA was preformed to get center and orientations of indi
 ## Prediction on real images
 ----
 The trained network is able to detect atleast one pickable shaft, as visualized in the table below.   
+
+The individual columns of the annotation files are explained in the image below.
+<img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/annot_file_explanation.png">
+
 <table>
 <tr>
     <th colspan="3" style="font-size:30px; text-align: center;"> Prediction on Synthetic images </th>
@@ -19,7 +23,7 @@ The trained network is able to detect atleast one pickable shaft, as visualized 
 
 <tr>
     <td><img src = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/image_0004_pred.bmp"  ></img></td>
-    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/004.png"  ></img></td>
+    <td><img src="https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/0004.png"  ></img></td>
 </tr>
 
 <tr>
