@@ -3,7 +3,10 @@
 This is the reimplementation of my <a href = "https://github.com/SriniMaiya/Shaft-Localization/blob/main/readme_files/report/SriniPrakashMaiya__923123__ProjectReport-Final.pdf" target="_blank"> Master's Project</a>  using PyTorch. The original project was carried out using [matterport maskrcnn]("https://github.com/matterport/Mask_RCNN). 
 
 A demo of the prediction on real images can be visualized below.
-![demo](https://user-images.githubusercontent.com/75990547/159794851-e3c42a75-b367-48d5-9473-ee39e41f2b30.gif)
+
+
+https://user-images.githubusercontent.com/75990547/159906466-e5611f2b-cda0-41e2-a329-c1e5cc934b8c.mp4
+
 
 
 
